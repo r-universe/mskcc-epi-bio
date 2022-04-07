@@ -1,10 +1,5 @@
 [
   {
-    "package": "PROscorerTools",
-    "oncran": true
-  },
-  {
-    "package": "tidycmprsk",
-    "oncran": true
+    "package": "synapser"
   }
 ]
