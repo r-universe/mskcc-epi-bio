@@ -8,3 +8,8 @@
 	url = https://github.com/Sage-Bionetworks/synapser
 	shallow = true
 	registered = true
+[submodule "genieBPC"]
+	path = genieBPC
+	url = https://github.com/GENIE-BPC/genieBPC
+	shallow = true
+	registered = true
