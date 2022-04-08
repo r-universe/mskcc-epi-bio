@@ -3,11 +3,6 @@
 	url = https://github.com/mskcc-epi-bio/universe
 	shallow = true
 	branch = HEAD
-[submodule "synapser"]
-	path = synapser
-	url = https://github.com/Sage-Bionetworks/synapser
-	shallow = true
-	registered = true
 [submodule "genieBPC"]
 	path = genieBPC
 	url = https://github.com/GENIE-BPC/genieBPC
