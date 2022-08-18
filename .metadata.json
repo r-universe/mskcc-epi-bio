@@ -1,5 +1,6 @@
 [
   {
-    "package": "genieBPC"
+    "package": "genieBPC",
+    "oncran": true
   }
 ]
