@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mskcc-epi-bio/universe
-	shallow = true
 	branch = HEAD
 [submodule "genieBPC"]
 	path = genieBPC
 	url = https://github.com/GENIE-BPC/genieBPC
-	shallow = true
-	registered = true
