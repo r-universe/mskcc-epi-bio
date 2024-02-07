@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mskcc-epi-bio/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "genieBPC"]
-	path = genieBPC
-	url = https://github.com/GENIE-BPC/genieBPC
+[submodule "PROscorerTools"]
+	path = PROscorerTools
+	url = https://github.com/mskcc-epi-bio/proscorertools
+[submodule "SvyNom"]
+	path = SvyNom
+	url = https://github.com/mskcc-epi-bio/svynom
+[submodule "tidycmprsk"]
+	path = tidycmprsk
+	url = https://github.com/mskcc-epi-bio/tidycmprsk
